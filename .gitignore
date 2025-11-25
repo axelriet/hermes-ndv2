@@ -20,3 +20,4 @@ TestResults
 *.VC.db
 *.VC.opendb
 *.nupkg
+/src/.vs/hermes
